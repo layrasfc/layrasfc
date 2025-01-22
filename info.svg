@@ -1,10 +1,18 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
-    </div>
+    <div style="display: flex; align-items: center; justify-content: space-evenly;">
+  <div style="border: 1px solid white; border-radius: 5px; width: 50px; height: fit-content; padding: 10px; display: flex; justify-content: center; align-items: center;">
+      <img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/512/python.png">
+  </div>
+  <div style="border: 1px solid white; border-radius: 5px; width: 50px; height: fit-content; padding: 10px; display: flex; justify-content: center; align-items: center;">
+      <img title="SpringBoot" alt="SpringBoot" width="40px" src="https://img.icons8.com/color/512/spring-logo.png">
+  </div>
+  <div style="border: 1px solid white; border-radius: 5px; width: 50px; height: fit-content; padding: 10px; display: flex; justify-content: center; align-items: center;">
+      <img title="Django" alt="Django" width="35px" src="https://static-00.iconduck.com/assets.00/django-icon-803x1024-rzi03va0.png">
+  </div>
+  <div style="border: 1px solid white; border-radius: 5px; width: 50px; height: fit-content; padding: 10px; display: flex; justify-content: center; align-items: center;">
+      <img title="React" alt="Reaact" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+  </div>
+</div>
 </foreignObject>
 </svg>
