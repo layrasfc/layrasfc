@@ -1,1 +1,3 @@
-### Olá! Eu sou a Layra Fernandes.
+<div align="center">
+    <img src="infor.svg" width="400" height="400" alt="css-in-readme">
+</div>
