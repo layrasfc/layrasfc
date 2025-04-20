@@ -2,7 +2,7 @@
 <p>I'm a junior full-stack developer eager to learn and grow.</p>
 <ul>
   <li>📚 Future Software Engineer</li>
-  <li>📄 Obsessed Notion fan</li>
+  <li>📄 Obsessed Obsidian/Notion fan</li>
 </ul>
 
 ## Skills :muscle:
